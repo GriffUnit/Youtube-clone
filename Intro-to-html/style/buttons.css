@@ -1,0 +1,162 @@
+
+            .subscribe-button {
+        background-color: rgb(200, 0, 0);
+        color: white;
+        border: none;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 0.8px;
+        transition: opacity 0.15s;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        vertical-align: top;
+            }
+            .subscribe-button:hover {
+        opacity: 0.8;
+            }
+            .subscribe-button:active{
+        opacity: 0.4;
+            }
+            .join-button {
+        background-color: white;
+        border-color: rgb(43, 43, 184);
+        border-style: solid;
+        border-width: 1px;
+        color: rgb(43, 43, 184);
+        height: 36px;
+        width: 62;
+        border-radius: 2px;
+        cursor: pointer; 
+        margin-left: 8px;
+        transition: background-color 1s,
+            color 1s;
+        padding-top: 9px;
+        padding-bottom: 9 px;
+        padding-left: 16px;
+        padding-right: 16px;
+            }
+            .join-button:hover{
+        background-color: rgb(43, 43, 184);
+        color: white;   
+            }
+            .join-button:active{
+        opacity: 0.6;
+            }
+            .tweet-button {
+        background-color: rgb(2, 155, 255);
+        height: 36px;
+        border: none;
+        border:  rgb(2, 158, 255);;
+        width: 90px;
+        cursor: pointer;
+        border-radius: 18px;
+        color: white;
+        font-size: 15px;
+        font-weight: bold;
+        margin-left: 8px;
+        transition: box-shadow 0.15s;
+        vertical-align: top;
+            }
+            .tweet-button:hover {
+        box-shadow: 5px 5px 5px rgba(0,0, 0, 0.15);
+            }
+            .tweet-button:active {
+        opacity: 0.8;
+            }
+        
+            .request {
+        background-color: black;
+        color: white;
+        width: 100px;
+        cursor: pointer;
+        margin-left: 8px;
+        border: none;
+        height: 36px;
+        transition: opacity 0.15s;
+            }
+            .request:hover {
+                opacity: 0.8;
+            }
+            .request:active {
+                opacity: 0.5;
+            }
+            .Add-to-cart {
+        background-color: rgb(255, 216, 20);
+        color: black;
+        border-radius: 18px;
+        height: 36px;
+        width: 100px;
+        border: none;
+        cursor: pointer;
+        margin-left: 8px;
+        transition: background-color 0.15s;
+            }
+            .Add-to-cart:hover {
+                background-color:rgb(209, 179, 29);
+            }
+            .Add-to-cart:active{
+                opacity: 0.8;
+            }
+        
+            .gymnastics {
+        color: green;
+            }
+            .gymnastics:hover{
+        color: blue;
+            }
+            .links:hover {
+                color: green;
+            }
+            .shadow-button {
+        background-color: green;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        border: none;
+        cursor: pointer;
+            }
+            .shadow-button:hover{
+        box-shadow: 5px 5px 5px rgba(0,0, 0, 0.15);
+            }
+            .shadow-button:active {
+        margin-left: 9px;
+        margin-top: 5px;
+            }
+            .stretch-button {
+                background-color: green;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        border: none;
+        cursor: pointer;
+        
+        transition: padding-bottom 1s, padding-right 1s, padding-left 1s, padding-top 1s;
+        
+            }
+            .stretch-button:hover {
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+            }
+            .one-button {
+        background-color: green;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        border: none;
+        cursor: pointer;
+        transition: padding-left 0.15s, padding-right 0.15s;   
+            }
+            .one-button:hover {
+        padding-left: 25px;
+        padding-right: 25px;
+            }

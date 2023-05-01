@@ -1,0 +1,137 @@
+.main-body{
+display: flex;
+flex-direction: column;
+margin: 0;
+}
+
+.inbox{
+font-family: Arial;
+font-size: 13px;
+color: grey;
+margin-bottom: 6px;
+}
+
+.email{
+display: flex;
+align-items: center;
+margin-top: 5px;
+}
+
+.pro-pic{
+width: 50px;
+}
+
+.cat{
+width: 40px;
+height: 40px;
+border-radius: 25px;
+margin-right: 5px;
+}
+
+.writing{
+display: flex;
+flex-direction: column;
+}
+
+.title{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
+.title-writing{
+font-family: Arial;
+font-size: 15px;
+font-weight: 700;
+}
+
+.time{
+font-family: Arial;
+font-size: 10px;
+color: gray;
+align-items: end;
+}
+
+.subject{
+font-family: Arial;
+font-size: 13px;
+font-weight: 700;
+}
+
+.message{
+font-family: Arial;
+font-size: 13px;
+color: gray;
+align-items: end;
+}
+
+.main2{
+display: flex;
+flex-direction: row;
+margin-top: 200px;
+font-family: Arial;
+}
+
+.cat-image{
+width: 40px;
+margin-right: 10px;
+}
+
+.meow{
+width: 40px;
+height: 40px;
+border-radius: 20px;
+}
+
+.username{
+font-size: 14px;
+font-weight: 700;
+}
+
+.highlight{
+color: gray;
+font-weight: 500;
+}
+
+.description{
+width: 350px;
+margin-top: 5px
+}
+
+.attachment{
+display: flex;
+flex-direction: row;
+width: 350px;
+height: 80px;
+border-radius: 10px;
+margin-top: 8px;
+border-style: solid;
+border-color: rgb(180, 180, 180);
+border-width: 2px;
+}
+
+.just-color{
+background-color: rgb(180, 180, 180);
+flex: 1;
+}
+
+.youtube-description{
+display: flex;
+flex-direction: column;
+margin-top: 12px;
+width: 250px;
+margin-left: 10px;
+}
+
+.Y-title{
+font-weight: 500;
+color: grey;
+font-size: 15px;
+margin-bottom: 3px;
+}
+
+.Y-description{
+font-weight: 500;
+}
+
